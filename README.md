@@ -73,3 +73,6 @@ atomicContent("my-block-name", array("my-class"), "1em", "30px")
 - widget to use blocks
 - button in the HTML toolbar
 - test recursive inclusions
+- write [readme.txt](https://wordpress.org/plugins/about/readme.txt) and publish on WordPress repository
+
+## [License](LICENSE)
